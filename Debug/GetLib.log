@@ -1,0 +1,8 @@
+﻿  GetLib.cpp
+f:\projects\viual studio\other\getlib\getlib\getlib.cpp(31): warning C4091: 'static ': ignored on left of 'MyInput::CheckType' when no variable is declared
+f:\projects\viual studio\other\getlib\getlib\getlib.cpp(239): warning C4018: '<': signed/unsigned mismatch
+f:\projects\viual studio\other\getlib\getlib\getlib.cpp(307): warning C4018: '<': signed/unsigned mismatch
+f:\projects\viual studio\other\getlib\getlib\getlib.cpp(344): warning C4018: '<': signed/unsigned mismatch
+f:\projects\viual studio\other\getlib\getlib\getlib.cpp(517): warning C4101: 'str': unreferenced local variable
+  GetLib.vcxproj -> F:\Projects\Viual studio\Other\GetLib\Debug\GetLib.exe
+  GetLib.vcxproj -> F:\Projects\Viual studio\Other\GetLib\Debug\GetLib.pdb (Partial PDB)
